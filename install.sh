@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.6.6"
+VERSION="4.6.7"
 DOWNLOAD_HOST="https://github.com/mine-Proxy/TCMinerSystem/raw/main/linux"
 ORIGIN_EXEC="tcstminersystem-${VERSION}"
 
@@ -305,7 +305,7 @@ start() {
             echo -e "官方网站：${BOLD}${GREEN}https://www.tcminersystem.com ${RESET}"
             echo -e ""
             echo -e "定制矿场网络硬件\局域网加密客户端\去中心化私有BTC矿池0费率"
-            echo -e "版本定制、场地合作请联系管理"
+            echo -e "宽带上网行为模拟、版本定制、场地合作请联系管理"
             echo -e ""
             echo "|---------------------------------------------------------------|"
         else
