@@ -33,7 +33,6 @@
 
 [![TCMinerSystem][TCMinerSystem.io-badge]][TCMinerSystem.io]
 [![Stargazers][stars-shield]][stars-url]
-<!-- <a href="https://github.com/CakeSystem/CakeSystem">简体中文</a>｜<a href="https://github.com/CakeSystem/CakeSystem/tree/main/Readme/i18n">English</a> -->
 
 </div>
 
