@@ -31,7 +31,7 @@
 
 
 
-[![VIPORMiner][VIPORMiner.io-badge]][VIPORMiner.io]
+[![TCMinerSystem][TCMinerSystem.io-badge]][TCMinerSystem.io]
 [![Stargazers][stars-shield]][stars-url]
 <!-- <a href="https://github.com/CakeSystem/CakeSystem">简体中文</a>｜<a href="https://github.com/CakeSystem/CakeSystem/tree/main/Readme/i18n">English</a> -->
 
@@ -309,10 +309,10 @@
 </table>
 
 
-[VIPORMiner.io]: https://github.com/mine-Proxy/TCMinerSystem
-[VIPORMiner.io-badge]: https://img.shields.io/badge/RustMinerSystem-v4.1.8-green?logo=Rust
+[TCMinerSystem.io]: https://github.com/mine-Proxy/TCMinerSystem
+[TCMinerSystem.io-badge]: https://img.shields.io/badge/TCMinerSystem-v4.6.7-green?logo=Rust
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
-[releases]: https://github.com/mine-Proxy/RustMinerSystem/releases
-[stars-url]: https://github.com/mine-Proxy/RustMinerSystem/stargazers
-[stars-shield]: https://img.shields.io/github/stars/mine-Proxy/RustMinerSystem.svg?style=flat
-[stars-url]: https://github.com/mine-Proxy/RustMinerSystem/stargazers
+[releases]: https://github.com/mine-Proxy/TCMinerSystem/releases
+[stars-url]: https://github.com/mine-Proxy/TCMinerSystem/stargazers
+[stars-shield]: https://img.shields.io/github/stars/mine-Proxy/TCMinerSystem.svg?style=flat
+[stars-url]: https://github.com/mine-Proxy/TCMinerSystem/stargazers
