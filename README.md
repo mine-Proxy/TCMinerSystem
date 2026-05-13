@@ -67,8 +67,6 @@ bash <(curl -s -L https://github.com/mine-Proxy/TCMinerSystem/raw/main/install.s
 
 ```
 bash <(curl -s -L https://proxy.tcminersystem.com/install.sh)
-
-
 ```
 
 > - 成功运行后，您将看到以下菜单, 根据提示安装即可。
