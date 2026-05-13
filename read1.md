@@ -32,14 +32,14 @@
 > 
 > 两种不同的方式都可使您的设备开始挖掘各种加密货币,  如果您是场地管理方或是节点拥有者, 还可自定义费率来提升您的盈利。
 > 
-> 并且TCMinerSystem还提供配套的本地安全客户端[RMS](https://github.com/EvilGenius-dot/RMS), [RMS](https://github.com/EvilGenius-dot/RMS)可加密且压缩数据体积10-20（1000% > 2000%）倍, 大幅降低带宽压力的情况下同时可避免中间人攻击, 大幅
+> 并且TCMinerSystem还提供配套的本地安全客户端[RMS](https://github.com/mine-Proxy/RMS), [RMS](https://github.com/mine-Proxy/RMS)可加密且压缩数据体积10-20（1000% > 2000%）倍, 大幅降低带宽压力的情况下同时可避免中间人攻击, 大幅
 提升安全性, 哪怕您使用4g流量卡, 单张流量卡依旧可稳定带动5000台以上矿机。
 > 
-> 在开始使用之前，请认真阅读我们的 [服务协议](https://rustminersystem.gitbook.io/rustminersystem/guan-yu/fu-wu-xie-yi) 。
+> 在开始使用之前，请认真阅读我们的 [服务协议](https://tcminersystem.gitbook.io/tcminersystem/guan-yu/fu-wu-xie-yi) 。
 > 
-> 如果您需要将设备接入至传统矿池, 请翻阅 [传统矿池代理](https://rustminersystem.gitbook.io/rustminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) 教程。
+> 如果您需要将设备接入至传统矿池, 请翻阅 [传统矿池代理](https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) 教程。
 > 
-> 如果您想要搭建自己的矿池节点,  请翻阅 [自建矿池节点](https://rustminersystem.gitbook.io/rustminersystem/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian) 教程。
+> 如果您想要搭建自己的矿池节点,  请翻阅 [自建矿池节点](https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) 教程。
 
 
 
@@ -50,7 +50,7 @@
 ### WINDOWS
 
 > 1. 打开以下链接：
-> 2. https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/windows
+> 2. https://github.com/mine-Proxy/TCMinerSystem/tree/main/windows
 > 3. 找到最新版的RustMinerSystem程序文件, 点击之后等页面跳转完毕找到View raw点击即可下载。
 > 4. 双击启动下载的程序, 根据提示浏览器访问即可进入RustMinerSystem管理后台。
 >5. 默认后台账号密码为 qzpm19kkx xloqslz913
@@ -60,39 +60,30 @@
 > - 复制运行以下shell指令以运行工具包
 
 ```
-bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
+bash <(curl -s -L https://github.com/mine-Proxy/TCMinerSystem/raw/main/install.sh) 
 ```
 
 > - 如果在部分地区下载过慢或是无法访问, 您可尝试备用安装地址
 
 ```
-bash <(curl -s -L -k https://rustminersystem.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
+bash <(curl -s -L https://proxy.tcminersystem.com/install.sh)
 ```
 
 > - 如果您是ARM架构处理器, 请使用以下命令安装
 
-```
-# ARM
-bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/arm-install.sh)
-```
-```
-# ARMV7
-bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/armv7-install.sh)
+
 ```
 
 > - 成功运行后，您将看到以下菜单, 根据提示安装即可。
 
-> ![screenshot](https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/install.gif)
+> ![screenshot](https://github.com/mine-Proxy/TCMinerSystem/raw/main/image/install.gif)
 
 ### 加入聊天组
 
-<a href="https://t.me/rustkt" target="_blank">
+<a href="https://t.me/TcstMinerSystem" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
-<a href="https://discord.gg/xpjRnv8wpX" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" />
-</a>
 
 
 ### 特别感谢
@@ -103,16 +94,16 @@ bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/arm
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/icon-logo-blue.png" alt="Logo" width="100">
+      <img src="https://github.com/mine-Proxy/TCMinerSystem/raw/main/image/icon-logo-blue.png" alt="Logo" width="100">
     </td>
     <td align="center">
-      <img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/poolin.svg" alt="Logo" width="100">
+      <img src="https://github.com/mine-Proxy/TCMinerSystem/raw/main/image/poolin.svg" alt="Logo" width="100">
     </td>
     <td align="center">
-      <img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/hd_logo.png" alt="Logo" width="100">
+      <img src="https://github.com/mine-Proxy/TCMinerSystem/raw/main/image/hd_logo.png" alt="Logo" width="100">
     </td>
     <td align="center">
-      <img src="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/antpool.png" alt="Logo" width="100">
+      <img src="https://github.com/mine-Proxy/TCMinerSystem/raw/main/image/antpool.png" alt="Logo" width="100">
     </td>
   </tr>
 </table>
