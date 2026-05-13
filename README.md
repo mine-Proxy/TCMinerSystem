@@ -75,15 +75,16 @@ bash <(curl -s -L https://proxy.tcminersystem.com/install.sh)
 > ![screenshot](https://github.com/mine-Proxy/TCMinerSystem/raw/main/image/install.gif)
 
 ### 加入聊天组
-
-<a href="https://t.me/TcstMinerSystem" target="_blank">
+<p>
+  <a href="https://t.me/TcstMinerSystem" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
-<a href="https://qm.qq.com/cgi-bin/qm/qr?k=O22gwKOK0v3JqVtOjwWzmK6H3Qd0h2Ty&jump_from=webapi&authKey=0FwwAgxRzswAFCgpiEKafzcgOgj8Uzm8DDzriyx7omj5MqPCQOAS/qQw3tXX6hrq" target="_blank">
+  </a>
+</p>
+<p>
+  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=O22gwKOK0v3JqVtOjwWzmK6H3Qd0h2Ty&jump_from=webapi&authKey=0FwwAgxRzswAFCgpiEKafzcgOgj8Uzm8DDzriyx7omj5MqPCQOAS/qQw3tXX6hrq" target="_blank">
   <img src="https://img.shields.io/badge/QQ-12B7F5?logo=tencentqq&logoColor=white" alt="QQ" />
-</a>
-
+  </a>
+</p>
 
 ### 特别感谢
 
