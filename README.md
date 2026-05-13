@@ -67,9 +67,6 @@ bash <(curl -s -L https://github.com/mine-Proxy/TCMinerSystem/raw/main/install.s
 
 ```
 bash <(curl -s -L https://proxy.tcminersystem.com/install.sh)
-```
-
-> - 如果您是ARM架构处理器, 请使用以下命令安装
 
 
 ```
