@@ -82,7 +82,7 @@ bash <(curl -s -L https://proxy.tcminersystem.com/install.sh)
 </p>
 <p>
   <a href="https://qm.qq.com/cgi-bin/qm/qr?k=O22gwKOK0v3JqVtOjwWzmK6H3Qd0h2Ty&jump_from=webapi&authKey=0FwwAgxRzswAFCgpiEKafzcgOgj8Uzm8DDzriyx7omj5MqPCQOAS/qQw3tXX6hrq" target="_blank">
-  <img src="https://img.shields.io/badge/QQ-12B7F5?logo=tencentqq&logoColor=white" alt="QQ" />
+  <img src="https://img.shields.io/badge/QQ-12B7F5?logo=tencentqq&logoColor=white" alt="QQ群" />
   </a>
 </p>
 
