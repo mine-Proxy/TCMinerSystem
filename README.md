@@ -23,7 +23,7 @@
   <a href="https://tcminersystem.gitbook.io/tcminersystem/guan-yu/fu-wu-xie-yi">服务协议</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/EvilGenius-dot/RustMinerSystem/main/image/review.gif)
+![screenshot](https://raw.githubusercontent.com/mine-Proxy/TCMinerSystem/main/image/review.gif)
 
 ## TCMinerSystem
 
