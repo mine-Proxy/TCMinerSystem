@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
     </a>
     <a href="https://github.com/mine-Proxy/TCMinerSystem">
-        <img src="https://img.shields.io/github/stars/mine-Proxy/TCMinerSystem.svg" alt="GitHub stars">
+        <img src="https://img.shields.io/github/stars/mine-proxy/TCMinerSystem.svg" alt="GitHub stars">
     </a>
 </p>
 
