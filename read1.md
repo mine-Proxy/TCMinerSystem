@@ -3,39 +3,36 @@
 <h4 align="center">完备的虚拟货币挖矿全链路解决方案。</h4>
 
 <p align="center">
-    <a href="https://github.com/EvilGenius-dot/RustMinerSystem/releases">
-        <img src="https://img.shields.io/github/v/tag/EvilGenius-dot/RustMinerSystem?label=version&color" alt="version">
+    <a href="https://github.com/mine-Proxy/TCMinerSystem/releases">
+        <img src="https://img.shields.io/github/v/tag/mine-Proxy/TCMinerSystem?label=version&color" alt="version">
     </a>
-    <a href="https://t.me/rustkt" target="_blank">
+    <a href="https://t.me/TcstMinerSystem" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    <a href="https://discord.gg/xpjRnv8wpX" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="https://github.com/EvilGenius-dot/RustMinerSystem">
-        <img src="https://img.shields.io/github/stars/EvilGenius-dot/RustMinerSystem.svg" alt="GitHub stars">
+    <a href="https://github.com/mine-Proxy/TCMinerSystem">
+        <img src="https://img.shields.io/github/stars/mine-Proxy/TCMinerSystem.svg" alt="GitHub stars">
     </a>
 </p>
 
 <p align="center">
-  <a href="https://rustminersystem.gitbook.io/rustminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi">矿池代理(抽水)</a> •
-  <a href="https://rustminersystem.gitbook.io/rustminersystem/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian">自建矿池</a> •
-  <a href="https://github.com/EvilGenius-dot/RMS">加密压缩</a> •
-  <a href="https://rustminersystem.gitbook.io/rustminersystem">详细教程</a> •
-  <a href="https://rustminersystem.gitbook.io/rustminersystem/guan-yu/lian-xi-wo-men">免费定制</a> •
-  <a href="https://rustminersystem.gitbook.io/rustminersystem/guan-yu/fu-wu-xie-yi">服务协议</a>
+  <a href="https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi">矿池代理(抽水)</a> •
+  <a href="https://tcminersystem.gitbook.io/tcminersystem/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian">自建矿池</a> •
+  <a href="https://github.com/mine-Proxy/RMS">加密压缩</a> •
+  <a href="https://tcminersystem.gitbook.io/tcminersystem">详细教程</a> •
+  <a href="https://tcminersystem.gitbook.io/tcminersystem/guan-yu/lian-xi-wo-men">免费定制</a> •
+  <a href="https://tcminersystem.gitbook.io/tcminersystem/guan-yu/fu-wu-xie-yi">服务协议</a>
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/EvilGenius-dot/RustMinerSystem/main/image/review.gif)
 
-## RustMinerSystem
+## TCMinerSystem
 
 > [!TIP]
-> RustMinerSystem既可以代理传统矿池，也可以使您的设备成为一个真正的矿池节点, 具体取决于您的需求。
+> TCMinerSystem既可以代理传统矿池，也可以使您的设备成为一个真正的矿池节点, 具体取决于您的需求。
 > 
 > 两种不同的方式都可使您的设备开始挖掘各种加密货币,  如果您是场地管理方或是节点拥有者, 还可自定义费率来提升您的盈利。
 > 
-> 并且RustMinerSystem还提供配套的本地安全客户端[RMS](https://github.com/EvilGenius-dot/RMS), [RMS](https://github.com/EvilGenius-dot/RMS)可加密且压缩数据体积10-20（1000% > 2000%）倍, 大幅降低带宽压力的情况下同时可避免中间人攻击, 大幅
+> 并且TCMinerSystem还提供配套的本地安全客户端[RMS](https://github.com/EvilGenius-dot/RMS), [RMS](https://github.com/EvilGenius-dot/RMS)可加密且压缩数据体积10-20（1000% > 2000%）倍, 大幅降低带宽压力的情况下同时可避免中间人攻击, 大幅
 提升安全性, 哪怕您使用4g流量卡, 单张流量卡依旧可稳定带动5000台以上矿机。
 > 
 > 在开始使用之前，请认真阅读我们的 [服务协议](https://rustminersystem.gitbook.io/rustminersystem/guan-yu/fu-wu-xie-yi) 。
@@ -46,9 +43,9 @@
 
 
 
-## 安装RustMinerSystem
+## 安装TCMinerSystem
 
-> RustMinerSystem同时提供不同平台以及架构的安装程序（二进制可执行文件）, Linux下仅需一行命令即可完成部署, WINDOWS下仅下载可执行程序. 双击打开根据提示即可工作。
+> TCMinerSystem同时提供不同平台以及架构的安装程序（二进制可执行文件）, Linux下仅需一行命令即可完成部署, WINDOWS下仅下载可执行程序. 双击打开根据提示即可工作。
 
 ### WINDOWS
 
@@ -123,7 +120,7 @@ bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/arm
 ## 服务协议
 
 > [!Caution]
-> RustMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。
+> TCMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。
 > 
 > 因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。
 > 
