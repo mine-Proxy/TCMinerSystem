@@ -1,15 +1,14 @@
 # ![alt text](https://raw.githubusercontent.com/mine-Proxy/TCMinerSystem/refs/heads/main/image/_logo.svg)
 
-<a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-EN">English</a>｜<a href="https://github.com/mine-Proxy/TCMinerSystem">简体中文</a> | <a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-RU">Русский язык</a>
-
-
 
 <h4 align="center">完备的虚拟货币挖矿全链路解决方案。</h4>
 <h4 align="center">矿池中转 中转服务器 比特币挖矿 加密隧道 矿池代理 </h4>
 
 <p align="center">
-    <p><a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-EN">English</a>｜<a href="https://github.com/mine-Proxy/TCMinerSystem">简体中文</a> | <a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-RU">Русский язык
-    </a></p>
+    <p
+        <a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-EN">English</a>｜<a href="https://github.com/mine-Proxy/TCMinerSystem">简体中文</a> | <a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-RU">Русский язык
+    </a>
+    </p>
 
     <a href="https://github.com/mine-Proxy/TCMinerSystem/releases">
         <img src="https://img.shields.io/github/v/tag/mine-Proxy/TCMinerSystem?label=version&color" alt="version">
