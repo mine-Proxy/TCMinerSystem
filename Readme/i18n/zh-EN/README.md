@@ -8,7 +8,7 @@
 <h4 align="center">矿池中转 中转服务器 比特币挖矿 加密隧道 矿池代理 </h4>
 
 <p align="center">
-    <p<a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-EN">English</a>｜<a href="https://github.com/mine-Proxy/TCMinerSystem">简体中文</a> | <a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-RU">Русский язык
+    <p><a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-EN">English</a>｜<a href="https://github.com/mine-Proxy/TCMinerSystem">简体中文</a> | <a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-RU">Русский язык
     </a></p>
 
     <a href="https://github.com/mine-Proxy/TCMinerSystem/releases">
