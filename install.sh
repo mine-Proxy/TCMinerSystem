@@ -303,10 +303,10 @@ start() {
             echo -e "如有问题请加QQ群：${BOLD}${GREEN}893145602 ${RESET}"
             echo -e "技术支持请加微信：${BOLD}${GREEN}xiaoyu1222006 ${RESET}"
             echo -e "官方网站：${BOLD}${GREEN}https://www.tcminersystem.com ${RESET}"
-            echo -e ""
-            echo -e "定制矿场网络硬件\局域网加密客户端\去中心化私有BTC矿池0费率"
+            echo -e "矿场网络设备搭建\算力优化\局域网加密部署"
             echo -e "宽带上网行为模拟、版本定制、场地合作请联系管理"
-            echo -e ""
+		    echo -e ""
+            echo -e "${BOLD}${GREEN}矿场无痕抽水，兼容各大矿池本地代理、不修改任何地址，有需求联系管理。${RESET}"
             echo "|---------------------------------------------------------------|"
         else
             echo "${m_40}"
