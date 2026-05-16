@@ -41,7 +41,7 @@
 > 
 > If you need to connect devices to traditional mining pools, please refer to [Traditional Mining Pool Proxy](https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) Tutorial
 > 
-> If you want to build your own mining pool nodes, please refer to [自建矿池节点](https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) Tutorial
+> If you want to build your own mining pool nodes, please refer to [Self-built Mining Pool Node](https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) Tutorial
 
 
 
