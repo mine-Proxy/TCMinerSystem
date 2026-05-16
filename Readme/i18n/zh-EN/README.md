@@ -37,45 +37,45 @@
 > 
 > Furthermore, TCMinerSystem also provides a matching local security client[RMS](https://github.com/mine-Proxy/RMS), [RMS](https://github.com/mine-Proxy/RMS)It can encrypt and compress data volume by 10 to 20 times (1000%~2000%), effectively reduce bandwidth pressure and prevent man-in-the-middle attacks to greatly enhance security. Even with a 4G data card, a single card can stably support over 5000 mining rigs.
 > 
-> Please read our terms carefully before use [服务协议](https://tcminersystem.gitbook.io/tcminersystem/guan-yu/fu-wu-xie-yi) 。
+> Please read our terms carefully before use [Service Agreement](https://tcminersystem.gitbook.io/tcminersystem/guan-yu/fu-wu-xie-yi) 。
 > 
-> If you need to connect devices to traditional mining pools, please refer to [传统矿池代理](https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) 教程。
+> If you need to connect devices to traditional mining pools, please refer to [Traditional Mining Pool Proxy](https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) Tutorial
 > 
-> If you want to build your own mining pool nodes, please refer to [自建矿池节点](https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) 教程。
+> If you want to build your own mining pool nodes, please refer to [自建矿池节点](https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) Tutorial
 
 
 
-## 安装TCMinerSystem
+## Install TCMinerSystem
 
-> TCMinerSystem同时提供不同平台以及架构的安装程序（二进制可执行文件）, Linux下仅需一行命令即可完成部署, WINDOWS下仅下载可执行程序. 双击打开根据提示即可工作。
+> TCMinerSystem offers installation packages (binary executable files) for various platforms and architectures. Deployment can be completed with just one command on Linux. For Windows, simply download the executable file, double-click to launch and follow the prompts to get started.
 
 ### WINDOWS
 
-> 1. 打开以下链接：
+> 1. Open the link below:
 > 2. https://github.com/mine-Proxy/TCMinerSystem/tree/main/windows
-> 3. 找到最新版的RustMinerSystem程序文件, 点击之后等页面跳转完毕找到View raw点击即可下载。
-> 4. 双击启动下载的程序, 根据提示浏览器访问即可进入RustMinerSystem管理后台。
->5. 默认后台账号密码为 qzpm19kkx xloqslz913
+> 3. Locate the latest RustMinerSystem program file. Click it, wait for the page to load completely, then click View raw to download.
+> 4. Double-click to launch the downloaded program. Follow the prompts and access via browser to enter the RustMinerSystem admin panel.
+>5. Default admin username and password: qzpm19kkx / xloqslz913
 
 ### Linux
-> - 操作系统推荐使用Ubuntu
-> - 复制运行以下shell指令以运行工具包
+> - Recommended operating system: Ubuntu
+> - Copy and run the shell command below to execute the toolkit
 
 ```
 bash <(curl -s -L https://github.com/mine-Proxy/TCMinerSystem/raw/main/install.sh) 
 ```
 
-> - 如果在部分地区下载过慢或是无法访问, 您可尝试备用安装地址
+> - If you experience slow downloads or access issues in certain regions, you may try the alternative installation URL.
 
 ```
 bash <(curl -s -L https://proxy.tcminersystem.com/install.sh)
 ```
 
-> - 成功运行后，您将看到以下菜单, 根据提示安装即可。
+> - After successful startup, you will see the menu below, follow the prompts to complete the installation.
 
 > ![screenshot](https://github.com/mine-Proxy/TCMinerSystem/raw/main/image/install.gif)
 
-### 加入聊天组
+### Join Chat Group
 <p>
   <a href="https://t.me/TcstMinerSystem" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
@@ -87,10 +87,10 @@ bash <(curl -s -L https://proxy.tcminersystem.com/install.sh)
 </a>
 </p>
 
-### 特别感谢
+### Special Thanks
 
 > [!TIP] 
-> 感谢以下矿池在一定范围内提供了技术支持😊
+> Special thanks to the following mining pools for providing technical support within scope 😊
 
 <table>
   <tr>
@@ -109,27 +109,27 @@ bash <(curl -s -L https://proxy.tcminersystem.com/install.sh)
   </tr>
 </table>
 
-## 服务协议
+## Service Agreement
 
 > [!Caution]
-> TCMinerSystem受香港法律监管。请注意，不同国家/地区的法律要求可能会限制此类产品和服务。
+> TCMinerSystem is governed by the laws of Hong Kong. Please note that legal regulations in different countries and regions may restrict relevant products and services.
 > 
-> 因此，该产品和服务以及某些功能可能不可用，或者在某些司法管辖区或地区或某些用户中可能受到限制。
+> Hence, this product, services and partial functions may be unavailable or subject to restrictions in certain jurisdictions, regions or for specific users.
 > 
-> 本产品并非VPN类型产品, 因为他无法使不允许地区访问禁止访问的内容。
+> This product is not a VPN product, and it cannot help users access prohibited content in restricted areas.
 > 
-> 本产品为矿机、矿场管理软件，并非通过不正当手段获取矿机数据, 所有接入的设备均需设备拥有者主动设置矿机连接地址，以此确保任意使用本程序的客户拥有知情权。
+> This is professional management software for mining machines and mining farms. It never acquires mining device data by improper means. All connected devices require owners to actively set connection addresses to ensure all users are fully informed.
 > 
-> 您不在任何恐怖活动组织及恐怖活动人员名单中，如联合国安理会决议中所列的恐怖活动组织及恐怖活动人员名单。
+> You are not included in any list of terrorist organizations and terrorists, including those specified in UN Security Council resolutions.
 > 
-> 您未被任何国家或地区的行政执法机构限制或禁止使用本程序。
+> You are not restricted or prohibited from using this program by any law enforcement authority of any country or region.
 > 
-> 您非古巴、伊朗、朝鲜、叙利亚以及其他受到相关国家政府或国际机构执行制裁的国家或地区居民。
+> You are not a resident of Cuba, Iran, the DPRK, Syria or any other countries and regions sanctioned by national governments or international institutions.
 > 
-> 您非限制或禁止开展数字货币相关活动国家或地区的居民，包括但不限于中国大陆地区等。
+> You are not a resident of areas where digital currency-related activities are restricted or banned, including but not limited to Chinese mainland.
 > 
-> 您使用本程序提供的服务在您所在的国家或地区符合相关法律法规和政策。
+> Your use of the services provided by this program complies with local applicable laws, regulations and policies.
 > 
-> 您同意：如因您所在国家或地区的法律法规和政策或其他任何适用法律的原因，导致您使用本程序的服务违法，您将独立承担相关法律风险和责任，您无条件且不可撤销地放弃向本程序进行追索的权利。
+> You acknowledge and agree that if your use of the services is illegal due to local laws, regulations, policies or any other applicable laws, you shall solely assume all relevant legal risks and liabilities, and unconditionally and irrevocably waive all rights to claim against this program.
 > 
-> 您应该理解并遵守当地的法律法规。如果您使用此产品，默认代表将接受上述许可证。如果本产品引起的法律问题与本产品无关。
+> You shall fully understand and abide by local laws and regulations. Your use of this product shall be deemed as acceptance of all the above terms. The developer shall not be held responsible for any legal issues arising therefrom.
