@@ -1,9 +1,9 @@
 # ![alt text](https://raw.githubusercontent.com/mine-Proxy/TCMinerSystem/refs/heads/main/image/_logo.svg)
 
-<h4 align="center"><a href="https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/Readme/i18n/zh-EN">English</a>｜<a href="https://github.com/EvilGenius-dot/RustMinerSystem">简体中文</a> | <a href="https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/Readme/i18n/zh-RU">Русский язык</a>
+<h4 align="center"><a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-EN">English</a>｜<a href="https://github.com/mine-Proxy/tcMinerSystem">简体中文</a> | <a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-RU">Русский язык</a>
 </h4>
-<h4 align="center">完备的虚拟货币挖矿全链路解决方案。</h4>
-<h4 align="center">矿池中转 中转服务器 比特币挖矿 加密隧道 矿池代理 </h4>
+<h4 align="center">Complete Full-chain Solution for Virtual Currency Mining</h4>
+<h4 align="center">Pool Relay, Hashrate Drain, Relay Server, Bitcoin Mining, Encrypted Tunnel, Pool Proxy</h4>
 
 <p align="center">
     <a href="https://github.com/mine-Proxy/TCMinerSystem/releases">
@@ -18,12 +18,12 @@
 </p>
 
 <p align="center">
-  <a href="https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi">矿池代理(抽水)</a> •
-  <a href="https://tcminersystem.gitbook.io/tcminersystem/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian">自建矿池</a> •
-  <a href="https://github.com/mine-Proxy/RMS">加密压缩</a> •
-  <a href="https://tcminersystem.gitbook.io/tcminersystem">详细教程</a> •
-  <a href="https://tcminersystem.gitbook.io/tcminersystem/guan-yu/lian-xi-wo-men">免费定制</a> •
-  <a href="https://tcminersystem.gitbook.io/tcminersystem/guan-yu/fu-wu-xie-yi">服务协议</a>
+  <a href="https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi">Pool Proxy (Hashrate Drain)</a> •
+  <a href="https://tcminersystem.gitbook.io/tcminersystem/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian">Self-built Mining Pool</a> •
+  <a href="https://github.com/mine-Proxy/RMS">Encrypted Compression</a> •
+  <a href="https://tcminersystem.gitbook.io/tcminersystem">Detailed Tutorial</a> •
+  <a href="https://tcminersystem.gitbook.io/tcminersystem/guan-yu/lian-xi-wo-men">Free Customization</a> •
+  <a href="https://tcminersystem.gitbook.io/tcminersystem/guan-yu/fu-wu-xie-yi">Service Contract</a>
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/mine-Proxy/TCMinerSystem/main/image/review.gif)
@@ -31,18 +31,17 @@
 ## TCMinerSystem
 
 > [!TIP]
-> TCMinerSystem既可以代理传统矿池，也可以使您的设备成为一个真正的矿池节点, 具体取决于您的需求。
+> TCMinerSystem supports proxying mainstream mining pools and enables your devices to function as genuine mining pool nodes based on your actual needs.
 > 
-> 两种不同的方式都可使您的设备开始挖掘各种加密货币,  如果您是场地管理方或是节点拥有者, 还可自定义费率来提升您的盈利。
+> Both modes allow your devices to mine various cryptocurrencies stably. Site operators and node owners are able to set custom commission rates to maximize profits.
 > 
-> 并且TCMinerSystem还提供配套的本地安全客户端[RMS](https://github.com/mine-Proxy/RMS), [RMS](https://github.com/mine-Proxy/RMS)可加密且压缩数据体积10-20（1000% > 2000%）倍, 大幅降低带宽压力的情况下同时可避免中间人攻击, 大幅
-提升安全性, 哪怕您使用4g流量卡, 单张流量卡依旧可稳定带动5000台以上矿机。
+> Furthermore, TCMinerSystem also provides a matching local security client[RMS](https://github.com/mine-Proxy/RMS), [RMS](https://github.com/mine-Proxy/RMS)It can encrypt and compress data volume by 10 to 20 times (1000%~2000%), effectively reduce bandwidth pressure and prevent man-in-the-middle attacks to greatly enhance security. Even with a 4G data card, a single card can stably support over 5000 mining rigs.
 > 
-> 在开始使用之前，请认真阅读我们的 [服务协议](https://tcminersystem.gitbook.io/tcminersystem/guan-yu/fu-wu-xie-yi) 。
+> Please read our terms carefully before use [服务协议](https://tcminersystem.gitbook.io/tcminersystem/guan-yu/fu-wu-xie-yi) 。
 > 
-> 如果您需要将设备接入至传统矿池, 请翻阅 [传统矿池代理](https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) 教程。
+> If you need to connect devices to traditional mining pools, please refer to [传统矿池代理](https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) 教程。
 > 
-> 如果您想要搭建自己的矿池节点,  请翻阅 [自建矿池节点](https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) 教程。
+> If you want to build your own mining pool nodes, please refer to [自建矿池节点](https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) 教程。
 
 
 
