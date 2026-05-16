@@ -53,8 +53,8 @@
 
 > 1. Open the link below:
 > 2. https://github.com/mine-Proxy/TCMinerSystem/tree/main/windows
-> 3. Locate the latest RustMinerSystem program file. Click it, wait for the page to load completely, then click View raw to download.
-> 4. Double-click to launch the downloaded program. Follow the prompts and access via browser to enter the RustMinerSystem admin panel.
+> 3. Locate the latest TCMinerSystem program file. Click it, wait for the page to load completely, then click View raw to download.
+> 4. Double-click to launch the downloaded program. Follow the prompts and access via browser to enter the TCMinerSystem admin panel.
 >5. Default admin username and password: qzpm19kkx / xloqslz913
 
 ### Linux
