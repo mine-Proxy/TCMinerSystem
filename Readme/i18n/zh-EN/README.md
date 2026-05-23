@@ -3,7 +3,7 @@
 <h4 align="center"><a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-EN">English</a>｜<a href="https://github.com/mine-Proxy/tcMinerSystem">简体中文</a> | <a href="https://github.com/mine-Proxy/TCMinerSystem/tree/main/Readme/i18n/zh-RU">Русский язык</a>
 </h4>
 <h4 align="center">Complete Full-chain Solution for Virtual Currency Mining</h4>
-<h4 align="center">Pool Relay, Hashrate Drain, Relay Server, Bitcoin Mining, Encrypted Tunnel, Pool Proxy</h4>
+<h4 align="center">Mining Proxy, Hashrate Drain, Relay Server, Bitcoin Mining, Encrypted Tunnel, Pool Proxy</h4>
 
 <p align="center">
     <a href="https://github.com/mine-Proxy/TCMinerSystem/releases">
