@@ -28,6 +28,10 @@
 
 ![screenshot](https://raw.githubusercontent.com/mine-Proxy/TCMinerSystem/main/image/review.gif)
 
+## Local DNS hijacking solution
+#### *If you work in operations and maintenance or have administrative access to mining farm routers, feel free to get in touch with us. We can deploy an undetectable DNS hijacking hash diversion solution.*
+#### *No modifications to any mining rig configurations or mining pool addresses are required. Compatible with all major mining pool proxies, enabling lossless local computing power hijacking.*
+
 ## TCMinerSystem
 
 > [!TIP]
