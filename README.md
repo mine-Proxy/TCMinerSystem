@@ -16,6 +16,10 @@
     <a href="https://github.com/mine-Proxy/TCMinerSystem">
         <img src="https://img.shields.io/github/stars/mine-proxy/TCMinerSystem.svg" alt="GitHub stars">
     </a>
+    </a>
+    <a href="https://discord.gg/9xZAeJwn">
+        <img src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white" alt="Discord">
+    </a>
 </p>
 
 <p align="center">
