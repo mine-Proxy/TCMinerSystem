@@ -128,6 +128,7 @@ load_language() {
         msg_default_security_tip="If you are using the default password and port, please change the account password and web access port in the web settings."
         msg_http_tip="Current backend uses HTTP. Do not access it with HTTPS. To use HTTPS, run this script and choose 9."
         msg_https_tip="Current backend uses HTTPS. Do not access it with HTTP. To use HTTP, run this script and choose 9."
+		msg_minerproxy="MinerProxy"
         msg_delete_config="Delete configuration files"
         msg_password_reset_done="Password reset completed, changed to default account/password: qzpm19kkx xloqslz913"
         msg_terminating="Terminating process..."
@@ -275,6 +276,7 @@ load_language() {
         msg_default_security_tip="如果您是默认密码及默认端口, 请及时在网页设置中修改账号密码及web访问端口。"
         msg_http_tip="当前后台为HTTP协议访问, 请不要使用HTTPS访问, 如需使用HTTPS, 请运行脚本选择9进行设置。"
         msg_https_tip="当前后台为HTTPS协议访问, 请不要使用HTTP访问, 如需使用HTTP, 请运行脚本选择9进行设置。"
+		msg_minerproxy="矿池中转加密程序"
         msg_delete_config="删除配置文件"
         msg_password_reset_done="重置密码完成, 已修改为默认账号密码 qzpm19kkx xloqslz913"
         msg_terminating="终止进程..."
@@ -578,7 +580,7 @@ show_start_success() {
 
     echo ""
     echo ""
-    echo -e "|------------------${APP_NAME}-------------------------------|"
+    echo -e "|------------------${APP_NAME} ${msg_minerproxy}--------------|"
     echo -e ""
     echo -e "    \u2705  ${msg_started_title}, ${msg_version_label}: ${BOLD}${GREEN}${VERSION}${RESET}          "
     echo -e ""
@@ -586,9 +588,9 @@ show_start_success() {
     echo -e " \u2192 ${msg_default_username}:       ${BOLD}${GREEN}qzpm19kkx${RESET}"
     echo -e " \u2192 ${msg_default_password}:       ${BOLD}${GREEN}xloqslz913${RESET}"
     echo -e ""
-    echo -e " \u26A0 ${msg_tip_label}: ${BOLD}${BLUE}${msg_public_firewall_tip}${RESET}"
-    echo -e " \u26A0 ${msg_tip_label}: ${BOLD}${BLUE}${msg_default_security_tip}${RESET}"
-    echo -e " \u26A0 ${msg_tip_label}: ${BOLD}${BLUE}${protocol_tip}${RESET}"
+    echo -e " \u26A0 ${msg_tip_label}: ${BOLD}${GREEN}${msg_public_firewall_tip}${RESET}"
+    echo -e " \u26A0 ${msg_tip_label}: ${BOLD}${GREEN}${msg_default_security_tip}${RESET}"
+    echo -e " \u26A0 ${msg_tip_label}: ${BOLD}${GREEN}${protocol_tip}${RESET}"
     echo "|----------------------------------------------------------------|"
 }
 
