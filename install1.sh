@@ -551,17 +551,17 @@ print_menu_section() {
 show_main_menu() {
     get_service_status
 
-    printf "%b\n" "${BOLD}${BLUE}+----------------------------------------------------------------+${RESET}"
+    printf "%b\n" "${BOLD}${GREEN}+----------------------------------------------------------------+${RESET}"
     printf "%b  %s %s%b\n" "$BOLD" "$APP_NAME" "$VERSION" "$RESET"
     printf "  %b●%b %s: %b%s%b\n" "$service_status_color" "$RESET" "$msg_service_status_label" "$service_status_color" "$service_status_text" "$RESET"
-    printf "%b\n" "${BOLD}${BLUE}+----------------------------------------------------------------+${RESET}"
+    printf "%b\n" "${BOLD}${GREEN}+----------------------------------------------------------------+${RESET}"
     print_menu_section "$menu_group_install" "$prompt_install" "$prompt_update" "$prompt_target_version"
     print_menu_section "$menu_group_runtime" "$prompt_start" "$prompt_stop" "$prompt_restart"
     print_menu_section "$menu_group_settings" "$prompt_port" "$prompt_ulimit" "$prompt_https" "$prompt_enable_web_ui" "$prompt_disable_web_ui" "$prompt_auto_start" "$prompt_disable_auto_start"
     print_menu_section "$menu_group_logs" "$prompt_service_log" "$prompt_status" "$prompt_error_log" "$prompt_clear_log" "$prompt_web_port"
     print_menu_section "$menu_group_maintenance" "$prompt_uninstall" "$prompt_reset_pwd" "$prompt_runtime_status"
     print_menu_section "$menu_group_cli" "$prompt_install_cli" "$prompt_uninstall_cli"
-    printf "\n%b\n" "${BOLD}${BLUE}+----------------------------------------------------------------+${RESET}"
+    printf "\n%b\n" "${BOLD}${GREEN}+----------------------------------------------------------------+${RESET}"
     printf "%b%s%b\n" "$YELLOW" "$menu_tip" "$RESET"
 }
 
