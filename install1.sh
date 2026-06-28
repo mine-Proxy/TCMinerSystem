@@ -578,8 +578,9 @@ show_start_success() {
 
     echo ""
     echo ""
-    echo -e "|----------------------------------------------------------------|"
-    echo -e "      \u2705  ${msg_started_title}, ${msg_version_label}: ${BOLD}${GREEN}${VERSION}${RESET}          "
+    echo -e "|------------------${APP_NAME}-------------------------------|"
+    echo -e ""
+    echo -e "    \u2705  ${msg_started_title}, ${msg_version_label}: ${BOLD}${GREEN}${VERSION}${RESET}          "
     echo -e ""
     echo -e " \u2192 ${msg_backend_url}:     ${BOLD}${GREEN}${access_url}${RESET}"
     echo -e " \u2192 ${msg_default_username}:       ${BOLD}${GREEN}qzpm19kkx${RESET}"
