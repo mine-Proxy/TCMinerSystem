@@ -280,6 +280,7 @@ load_language() {
 		msg_qqgroup="技术沟通QQ群：893145602"
 		msg_telegram="Telagram群：https://t.me/TcstMinerSystem"
 		msg_website="官方网站：https://www.tcminersystem.com"
+		msg_other1="矿场无痕抽水，兼容各大矿池本地代理、不修改任何地址，有需求联系管理。"
         msg_delete_config="删除配置文件"
         msg_password_reset_done="重置密码完成, 已修改为默认账号密码 qzpm19kkx xloqslz913"
         msg_terminating="终止进程..."
@@ -597,7 +598,9 @@ show_start_success() {
     echo -e ""
 	echo -e "${BOLD}${GREEN}${msg_qqgroup}${RESET}"
 	echo -e "${BOLD}${GREEN}${msg_telegram}${RESET}"
-	echo -e "${BOLD}${GREEN}${	msg_website}${RESET}"
+	echo -e "${BOLD}${GREEN}${msg_website}${RESET}"
+    echo -e ""
+	echo -e "${BOLD}${GREEN}${msg_other1}${RESET}"
     echo "|----------------------------------------------------------------|"
 }
 
