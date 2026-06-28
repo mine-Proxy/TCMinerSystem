@@ -277,6 +277,9 @@ load_language() {
         msg_http_tip="当前后台为HTTP协议访问, 请不要使用HTTPS访问, 如需使用HTTPS, 请运行脚本选择9进行设置。"
         msg_https_tip="当前后台为HTTPS协议访问, 请不要使用HTTP访问, 如需使用HTTP, 请运行脚本选择9进行设置。"
 		msg_minerproxy="矿池中转加密程序"
+		msg_qqgroup="技术沟通QQ群：893145602"
+		msg_telegram="Telagram群：https://t.me/TcstMinerSystem"
+		msg_website="官方网站：https://www.tcminersystem.com"
         msg_delete_config="删除配置文件"
         msg_password_reset_done="重置密码完成, 已修改为默认账号密码 qzpm19kkx xloqslz913"
         msg_terminating="终止进程..."
@@ -591,6 +594,10 @@ show_start_success() {
     echo -e " \u26A0 ${msg_tip_label}: ${BOLD}${GREEN}${msg_public_firewall_tip}${RESET}"
     echo -e " \u26A0 ${msg_tip_label}: ${BOLD}${GREEN}${msg_default_security_tip}${RESET}"
     echo -e " \u26A0 ${msg_tip_label}: ${BOLD}${GREEN}${protocol_tip}${RESET}"
+    echo -e ""
+	echo -e "${BOLD}${GREEN}${msg_qqgroup}${RESET}"
+	echo -e "${BOLD}${GREEN}${msg_telegram}${RESET}"
+	echo -e "${BOLD}${GREEN}${	msg_website}${RESET}"
     echo "|----------------------------------------------------------------|"
 }
 
