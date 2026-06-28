@@ -49,8 +49,13 @@ RESET="\033[0m"
 
 select_language() {
     clear
-    echo "Please select your language / 请选择语言:"
+    echo "Welcome to Premium Mining Farm Management System"   
+	echo ""
+    echo "欢迎使用优秀的矿场管理工具"
+	echo ""
+	echo "Please select your language / 请选择语言:"
     echo "1. English"
+	echo ""
     echo "2. 中文"
     read -p "$(echo -e "[1-2]：")" lang_choice
 }
