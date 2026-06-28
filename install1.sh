@@ -58,7 +58,8 @@ select_language() {
     echo "1. English"
 	echo ""
     echo "2. 中文"
-    read -p "$(echo -e "[1-2]：")" lang_choice
+	echo ""
+    read -p "$(echo -e "Please enter 1 or 2 / 请输入1或者2")" lang_choice
 }
 
 load_language() {
