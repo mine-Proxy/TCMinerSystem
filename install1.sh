@@ -212,7 +212,7 @@ load_language() {
         msg_version_example="Enter the specified version number, for example 3.5.0"
         ;;
     2)
-        prompt_install="1. 安装"
+        prompt_install="1. 一键安装"
         prompt_update="2. 更新"
         prompt_target_version="3. 安装指定版本"
         prompt_start="4. 启动软件"
