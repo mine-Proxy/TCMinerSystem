@@ -54,6 +54,7 @@ select_language() {
     echo "欢迎使用优秀的矿场管理工具"
 	echo ""
 	echo "Please select your language / 请选择语言:"
+	echo ""
     echo "1. English"
 	echo ""
     echo "2. 中文"
