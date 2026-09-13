@@ -1,10 +1,10 @@
 #!/bin/bash
 
-VERSION="5.0.3"
+VERSION="6.1.0"
 
 # Customer customization: change this block for white-label builds.
 APP_NAME="TCMinerSystem"
-APP_ID="tcminersystem"
+APP_ID="TCMinerSystem"
 DOWNLOAD_HOST="https://github.com/mine-Proxy/TCMinerSystem/raw/main/linux"
 CLI_DOWNLOAD_URL="https://github.com/mine-Proxy/TCMinerSystem/raw/refs/heads/main/CLI/TCMinerSystemCLI-0.1.0"
 
@@ -130,8 +130,8 @@ load_language() {
         msg_https_tip="Current backend uses HTTPS. Do not access it with HTTP. To use HTTP, run this script and choose 9."
 		msg_minerproxy="MinerProxy"
 		msg_qqgroup="QQ Tech Group：893145602"
-		msg_telegram="Telegram Group：https://t.me/TcstMinerSystem"
-		msg_website="Official Site：https://www.tcminersystem.com"
+		msg_telegram="Telegram Group：https://t.me/tcminerproxy"
+		msg_website="Official Site：https://www.TCMinerSystem.com"
 		msg_other1="Seamless Mining Farm Hash Siphoning, compatible with local proxies for all major mining pools. No miner address modifications required. Contact us"
 		msg_other2="Custom Hash Siphoning / Mining Farm Cooperation "
         msg_delete_config="Delete configuration files"
@@ -283,8 +283,8 @@ load_language() {
         msg_https_tip="当前后台为HTTPS协议访问, 请不要使用HTTP访问, 如需使用HTTP, 请运行脚本选择9进行设置。"
 		msg_minerproxy="矿池中转加密程序"
 		msg_qqgroup="技术沟通QQ群：893145602"
-		msg_telegram="Telegram群：https://t.me/TcstMinerSystem"
-		msg_website="官方网站：https://www.tcminersystem.com"
+		msg_telegram="Telegram群：https://t.me/tcminerproxy"
+		msg_website="官方网站：https://www.TCMinerSystem.com"
 		msg_other1="矿场无痕抽水，兼容各大矿池本地代理、不修改矿机任何地址，有需求联系管理。"
 		msg_other2="抽水定制 / 矿场合作 / 技术支持 / 网络建设 / 内网加密"
         msg_delete_config="删除配置文件"
@@ -1342,7 +1342,7 @@ ensure_cli_dependencies() {
     fi
 }
 
-is_rustminersystem_installed() {
+is_tcminerproxy_installed() {
     [ -x "${PATH_RUST}/${PATH_EXEC}" ]
 }
 
@@ -1430,7 +1430,7 @@ create_cli_launcher() {
     local text_stop_timeout
 
     if [ "$lang_choice" = "2" ]; then
-        text_usage="用法: rustminer [start|stop|restart|help]"
+        text_usage="用法: tcminer [start|stop|restart|help]"
         text_unknown="未知命令"
         text_need_root="请使用 root 用户运行该控制命令。"
         text_app_missing="未找到 TCMinerSystem 主程序，请先完成安装。"
@@ -1443,14 +1443,14 @@ create_cli_launcher() {
         text_stopped="TCMinerSystem 已停止。"
         text_stop_timeout="TCMinerSystem 停止超时。"
     else
-        text_usage="Usage: rustminer [start|stop|restart|help]"
+        text_usage="Usage: tcminer [start|stop|restart|help]"
         text_unknown="Unknown command"
         text_need_root="Please run this control command as root."
         text_app_missing="TCMinerSystem is not installed. Please install it first."
         text_cli_missing="TCMinerSystem CLI was not found. Please reinstall the CLI tool."
         text_cli_requires_web_disabled="The CLI tool can only be used when WEB access is disabled. Please run this install script and choose Disable WEB access first."
         text_already_running="TCMinerSystem is already running."
-        text_started="TCMinerSystem started."
+        text_started="TCMinerSystemstarted."
         text_start_failed="TCMinerSystem start failed."
         text_not_running="TCMinerSystem is not running."
         text_stopped="TCMinerSystem stopped."
@@ -1626,7 +1626,7 @@ show_cli_install_success() {
     echo -e "           ${BOLD}${GREEN}${msg_cli_install_done_title}${RESET}"
     echo -e "${msg_cli_install_done_path}: ${BOLD}${GREEN}${PATH_CLI}${RESET}"
     echo -e "${msg_cli_install_done_link}: ${BOLD}${GREEN}${CLI_LINK_PATH}${RESET}"
-    echo -e "${msg_cli_install_done_doc}: ${BOLD}${GREEN}https://minerproxy.org/zh/document/rustminersystem-cli${RESET}"
+    echo -e "${msg_cli_install_done_doc}: ${BOLD}${GREEN}https://TCMinerSystem.com/zh/document/tcminersystem-cli${RESET}"
     echo -e "${msg_tip_label}: ${BOLD}${BLUE}${msg_cli_install_done_run}${RESET}"
     echo "|----------------------------------------------------------------|"
 }
@@ -1636,7 +1636,7 @@ install_cli() {
 
     ensure_cli_dependencies || return 1
 
-    if ! is_rustminersystem_installed; then
+    if ! is_tcminersystem_installed; then
         echo "$msg_cli_main_missing"
         return 1
     fi
@@ -1800,7 +1800,7 @@ show_runtime_status() {
     local limit_config_status system_time
 
     if [ "$lang_choice" = "2" ]; then
-        label_title="TCMinerSystem 运行状态"
+        label_title="TCMinerSystem运行状态"
         label_basic="基础信息"
         label_runtime="运行状态"
         label_config="访问配置"
