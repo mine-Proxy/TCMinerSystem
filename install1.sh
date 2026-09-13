@@ -8,12 +8,12 @@ APP_ID="TCMinerSystem"
 DOWNLOAD_HOST="https://github.com/mine-Proxy/TCMinerSystem/raw/main/linux"
 CLI_DOWNLOAD_URL="https://github.com/mine-Proxy/TCMinerSystem/raw/refs/heads/main/CLI/TCMinerSystemCLI-0.1.0"
 
-SERVICE_NAME="tcservice"
+SERVICE_NAME="rustservice"
 PROCESS_WAIT_INTERVAL="0.1"
 PROCESS_WAIT_STEPS_PER_SECOND=10
 PROCESS_WAIT_INTERVAL_SUPPORTED=""
 
-PATH_RUST="/root/${APP_ID}"
+PATH_RUST="/root/rustminersystem""
 PATH_EXEC="${APP_ID}"
 DOWNLOAD_EXEC_PREFIX="${PATH_EXEC}"
 ORIGIN_EXEC="${DOWNLOAD_EXEC_PREFIX}-${VERSION}"
