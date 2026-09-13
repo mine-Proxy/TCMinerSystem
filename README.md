@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/license-MIT-22C55E" alt="MIT License">
   </a>
   <a href="https://t.me/TcstMinerSystem">
-    <img src="https://img.shields.io/badge/Telegram-TcstMinerSystem-2CA5E0?logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-TCMinerSystem-2CA5E0?logo=telegram&logoColor=white" alt="TCMinerSystem Telegram">
   </a>
   <a href="https://github.com/mine-Proxy/TCMinerSystem">
     <img src="https://img.shields.io/github/stars/mine-Proxy/TCMinerSystem?style=flat&color=F59E0B" alt="GitHub Stars">
@@ -34,7 +34,7 @@
   ·
   <a href="https://tcminersystem.gitbook.io/tcminersystem/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian">自建矿池</a>
   ·
-  <a href="https://github.com/mine-Proxy/RMS">RMS 加密压缩</a>
+  <a href="https://github.com/MinerProxyPro/TMS">TMS 加密压缩</a>
   ·
   <a href="https://tcminersystem.gitbook.io/tcminersystem">完整文档</a>
   ·
@@ -51,7 +51,7 @@
 
 TCMinerSystem 是面向矿机、矿场和矿池节点的矿池代理与运维管理系统，可用于接入传统矿池、集中管理转发端口，也可根据业务需要搭建自有矿池节点。
 
-配套的本地安全客户端 [RMS](https://github.com/mine-Proxy/RMS) 支持加密与压缩传输，可减少公网连接和带宽压力，并提升链路安全性。开始使用前，请先阅读 [服务协议](https://tcminersystem.gitbook.io/tcminersystem/guan-yu/fu-wu-xie-yi)。
+配套的本地安全客户端 [TMS](https://github.com/MinerProxyPro/TMS) 支持加密与压缩传输，可减少公网连接和带宽压力，并提升链路安全性。开始使用前，请先阅读 [服务协议](https://tcminersystem.gitbook.io/tcminersystem/guan-yu/fu-wu-xie-yi)。
 
 ## 核心能力
 
@@ -60,7 +60,7 @@ TCMinerSystem 是面向矿机、矿场和矿池节点的矿池代理与运维管
 | 传统矿池代理 | 集中管理矿机连接、转发端口与目标矿池，简化批量设备接入和日常运维。 |
 | 私有矿池节点 | 支持按业务需要搭建自有矿池节点，适用于矿场、节点服务商及自有算力场景。 |
 | 算力与费率管理 | 提供算力统计、分配规则与自定义费率配置，便于观察和管理业务运行情况。 |
-| RMS 安全传输 | 通过配套客户端完成加密与压缩传输，降低带宽压力并减少链路暴露。 |
+| TMS 安全传输 | 通过配套客户端完成加密与压缩传输，降低带宽压力并减少链路暴露。 |
 | 多平台部署 | 提供 Linux 与 Windows 可执行程序及 Linux 安装工具，便于快速部署和更新。 |
 | Web 管理后台 | 通过浏览器查看设备、端口、算力、日志、版本及系统运行状态。 |
 
@@ -103,7 +103,7 @@ bash <(curl -s -L https://proxy.tcminersystem.com/install.sh)
 | --- | --- |
 | 接入传统矿池 | [传统矿池代理教程](https://tcminersystem.gitbook.io/tcminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi) |
 | 搭建矿池节点 | [自建矿池节点教程](https://tcminersystem.gitbook.io/tcminersystem/zi-jian-kuang-chi-jie-dian/cheng-wei-kuang-chi-jie-dian) |
-| 使用加密压缩客户端 | [RMS 项目](https://github.com/mine-Proxy/RMS) |
+| 使用加密压缩客户端 | [TMS 项目](https://github.com/MinerProxyPro/TMS) |
 | 查看完整使用说明 | [TCMinerSystem 文档中心](https://tcminersystem.gitbook.io/tcminersystem) |
 | 获取新版本 | [Releases](https://github.com/mine-Proxy/TCMinerSystem/releases) |
 | 联系与定制 | [联系我们](https://tcminersystem.gitbook.io/tcminersystem/guan-yu/lian-xi-wo-men) |
@@ -138,7 +138,7 @@ TCMinerSystem 的算法与币种支持会随版本更新。以下为项目文档
 
 <p>
   <a href="https://t.me/TcstMinerSystem">
-    <img src="https://img.shields.io/badge/Telegram-TcstMinerSystem-2CA5E0?logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-TCMinerSystem-2CA5E0?logo=telegram&logoColor=white" alt="TCMinerSystem Telegram">
   </a>
   <a href="https://qm.qq.com/cgi-bin/qm/qr?k=O22gwKOK0v3JqVtOjwWzmK6H3Qd0h2Ty&amp;jump_from=webapi&amp;authKey=0FwwAgxRzswAFCgpiEKafzcgOgj8Uzm8DDzriyx7omj5MqPCQOAS/qQw3tXX6hrq">
     <img src="https://img.shields.io/badge/QQ-%E5%8A%A0%E5%85%A5%E4%BA%A4%E6%B5%81%E7%BE%A4-12B7F5?logo=tencentqq&logoColor=white" alt="QQ 交流群">
