@@ -80,7 +80,7 @@ bash <(curl -s -L https://github.com/mine-Proxy/TCMinerSystem/raw/main/install.s
 If GitHub access is slow in your region, try the alternative installation endpoint:
 
 ```sh
-bash <(curl -s -L https://proxy.tcminersystem.com/install.sh)
+bash <(curl -s -L https://cdn.tcminersystem.com/mine-proxy/TCMinerSystem/raw/main/install.sh)
 ```
 
 After the utility starts, follow the menu prompts to install, update, start, stop, and configure the service and its ports.

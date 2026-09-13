@@ -80,7 +80,7 @@ bash <(curl -s -L https://github.com/mine-Proxy/TCMinerSystem/raw/main/install.s
 如果所在地区访问 GitHub 较慢，可尝试备用安装地址：
 
 ```sh
-bash <(curl -s -L https://proxy.tcminersystem.com/install.sh)
+bash <(curl -s -L https://cdn.tcminersystem.com/mine-proxy/TCMinerSystem/raw/main/install.sh)
 ```
 
 安装工具启动后，根据菜单提示完成安装、更新、启动、停止和端口配置等操作。

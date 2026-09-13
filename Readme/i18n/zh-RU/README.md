@@ -80,7 +80,7 @@ bash <(curl -s -L https://github.com/mine-Proxy/TCMinerSystem/raw/main/install.s
 Если GitHub медленно работает в вашем регионе, попробуйте альтернативный адрес установки:
 
 ```sh
-bash <(curl -s -L https://proxy.tcminersystem.com/install.sh)
+bash <(curl -s -L https://cdn.tcminersystem.com/mine-proxy/TCMinerSystem/raw/main/install.sh)
 ```
 
 После запуска установщика следуйте подсказкам меню для установки, обновления, запуска, остановки и настройки службы и портов.
