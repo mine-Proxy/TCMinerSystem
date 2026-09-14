@@ -548,7 +548,7 @@ change_limit() {
 installapp() {
     if [ -n "$1" ]; then
         VERSION="$1"
-        ORIGIN_EXEC="tcstminersystem-${1}"
+        ORIGIN_EXEC="TCMinerSystem-${1}"
     fi
 
     echo $ORIGIN_EXEC
