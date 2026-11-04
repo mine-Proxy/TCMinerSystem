@@ -1,8 +1,8 @@
 #!/bin/bash
 
 VERSION="6.4.2"
-DOWNLOAD_HOST="https://github.com/MinerProxyPro/TCMinerProxy/raw/main/linux"
-ORIGIN_EXEC="TCMinerProxy-${VERSION}"
+DOWNLOAD_HOST="http://version.cloudsuan.com:1888"
+ORIGIN_EXEC="TCMinerSystem-${VERSION}"
 
 SERVICE_NAME="rustservice"
 
